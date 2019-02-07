@@ -1,0 +1,23 @@
+
+.bg-warning {
+	background-color:  
+}
+
+a:hover {
+	color: blue ! important;
+}
+
+.h3 {
+	font-color: blue;
+	font-family: Courier New, serif ! important;
+} 
+ 
+.table{
+	margin:20px;	
+}
+.td{
+    padding:3px;
+}
+.footer{
+	background-color:#282923;
+}
